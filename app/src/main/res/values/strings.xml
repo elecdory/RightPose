@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">바른자세 감지</string>
+
+    <!-- 상태 메시지 -->
+    <string name="status_normal">바른 자세</string>
+    <string name="status_initializing">초기화 중...</string>
+    <string name="status_posture_alert">자세 경고</string>
+    <string name="status_drowsiness">졸음 감지</string>
+    <string name="status_away">자리 비움</string>
+
+    <!-- 상세 메시지 -->
+    <string name="msg_normal_posture">자세가 바릅니다.</string>
+    <string name="msg_bad_head_posture">머리 자세가 바르지 않습니다.</string>
+    <string name="msg_head_down">고개를 너무 숙이고 있습니다.</string>
+    <string name="msg_head_up">고개를 너무 들고 있습니다.</string>
+    <string name="msg_head_tilt_left">고개가 왼쪽으로 기울었습니다.</string>
+    <string name="msg_head_tilt_right">고개가 오른쪽으로 기울었습니다.</string>
+    <string name="msg_shoulder_tilt_left">어깨가 왼쪽으로 기울었습니다.</string>
+    <string name="msg_shoulder_tilt_right">어깨가 오른쪽으로 기울었습니다.</string>
+    <string name="msg_upper_body_lean">허리를 펴고 앉으세요.</string>
+    <string name="msg_drowsiness">졸음이 감지되었습니다!</string>
+    <string name="msg_away">자리를 비웠습니다!</string>
+
+    <!-- 블루투스 상태 -->
+    <string name="bt_not_connected">블루투스: 연결 안됨</string>
+    <string name="bt_connecting">블루투스: 연결 중...</string>
+    <string name="bt_connected">블루투스: 연결됨</string>
+    <string name="bt_connection_failed">블루투스: 연결 실패</string>
+    <string name="bt_permission_denied">블루투스: 권한 없음</string>
+    <string name="bt_disabled">블루투스: 비활성화됨</string>
+    <string name="bt_error">블루투스: 오류</string>
+
+    <!-- 버튼 텍스트 -->
+    <string name="btn_settings">설정</string>
+    <string name="btn_show_debug">디버그 보기</string>
+    <string name="btn_hide_debug">디버그 숨기기</string>
+
+    <!-- 오류 메시지 -->
+    <string name="error_camera_init">카메라 초기화 실패</string>
+    <string name="error_bt_init">블루투스 초기화 실패</string>
+    <string name="error_permission">필요한 권한이 없어 앱을 실행할 수 없습니다.</string>
+    <string name="error_bt_enable">블루투스 활성화가 필요합니다.</string>
+
+    <!-- 기타 UI 텍스트 -->
+    <string name="debug_log_title">디버그 로그</string>
+    <string name="debug_initializing">시스템 초기화 중...</string>
+</resources>

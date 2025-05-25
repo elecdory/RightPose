@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <!-- 추가한 색상 -->
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="info_blue">#2196F3</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F5F5F5</color>
+</resources>
